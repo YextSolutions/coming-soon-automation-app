@@ -1,0 +1,66 @@
+{
+  "$schema": "https://schema.yext.com/config/km/settings/v1",
+  "primaryEntityType": "location",
+  "entityTypeSettings": [
+    {
+      "entityType": "location",
+      "disabled": false
+    },
+    {
+      "entityType": "healthcareProfessional",
+      "disabled": true
+    },
+    {
+      "entityType": "healthcareFacility",
+      "disabled": true
+    },
+    {
+      "entityType": "event",
+      "disabled": true
+    },
+    {
+      "entityType": "hotelRoomType",
+      "disabled": true
+    },
+    {
+      "entityType": "atm",
+      "disabled": true
+    },
+    {
+      "entityType": "restaurant",
+      "disabled": false
+    },
+    {
+      "entityType": "organization",
+      "disabled": true
+    },
+    {
+      "entityType": "financialProfessional",
+      "disabled": false
+    },
+    {
+      "entityType": "hotel",
+      "disabled": false
+    },
+    {
+      "entityType": "job",
+      "disabled": true
+    },
+    {
+      "entityType": "faq",
+      "disabled": true
+    },
+    {
+      "entityType": "helpArticle",
+      "disabled": true
+    },
+    {
+      "entityType": "product",
+      "disabled": true
+    },
+    {
+      "entityType": "brand",
+      "disabled": true
+    }
+  ]
+}

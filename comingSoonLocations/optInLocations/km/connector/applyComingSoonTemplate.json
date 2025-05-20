@@ -103,7 +103,7 @@
     "apiConfig": {
       "variables": [
         {
-          "name": "uid",
+          "name": "id",
           "type": {
             "stringType": "STRING_DEFAULT"
           }

@@ -150,5 +150,15 @@
         "subfieldPath": []
       }
     }
-  ]
+  ],
+  "scheduleConfig": {
+    "customSchedule": {
+      "timeZone": "Atlantic/Reykjavik",
+      "startDate": "2025-05-29",
+      "startTime": "00:00",
+      "frequencyType": "DAILY"
+    },
+    "runMode": "DEFAULT",
+    "dryRun": false
+  }
 }

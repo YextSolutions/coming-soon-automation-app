@@ -1,0 +1,14 @@
+{
+  "$id": "hotelRoomType.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Hotel Room Type-default",
+  "entityType": "hotelRoomType",
+  "fields": [
+    "optInLocations_liveOnExtendedNetwork",
+    "optInLocations_liveOnFacebook",
+    "optInLocations_liveOnGoogle",
+    "optInLocations_liveOnListings",
+    "optInLocations_liveOnYelp"
+  ],
+  "required": []
+}

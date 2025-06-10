@@ -1,0 +1,13 @@
+{
+  "$id": "1415893149",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Should be Live on Yelp",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "optInLocations_liveOnYelp",
+        "searchBool": "TRUE"
+      }
+    ]
+  }
+}

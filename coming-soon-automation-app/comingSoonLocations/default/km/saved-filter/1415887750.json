@@ -1,0 +1,13 @@
+{
+  "$id": "1415887750",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Should be Live on Facebook",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "optInLocations_liveOnFacebook",
+        "searchBool": "TRUE"
+      }
+    ]
+  }
+}

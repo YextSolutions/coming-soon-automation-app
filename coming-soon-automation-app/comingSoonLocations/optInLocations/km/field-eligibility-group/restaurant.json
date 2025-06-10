@@ -1,0 +1,14 @@
+{
+  "$id": "optInLocations_restaurant",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Restaurant",
+  "entityType": "restaurant",
+  "fields": [
+    "optInLocations_liveOnExtendedNetwork",
+    "optInLocations_liveOnFacebook",
+    "optInLocations_liveOnGoogle",
+    "optInLocations_liveOnListings",
+    "optInLocations_liveOnYelp"
+  ],
+  "required": []
+}

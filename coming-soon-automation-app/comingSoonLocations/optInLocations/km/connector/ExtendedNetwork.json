@@ -1,7 +1,7 @@
 {
   "$id": "optInLocations_ExtendedNetwork",
   "$schema": "https://schema.yext.com/config/km/connector/v7",
-  "displayName": "Opt In Locations _ Extended Network",
+  "displayName": "Coming Soon - Opt In Locations _ Extended Network",
   "source": {
     "sourceConfig": {
       "apiPullConfig": {

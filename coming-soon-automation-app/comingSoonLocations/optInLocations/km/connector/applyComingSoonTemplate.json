@@ -1,7 +1,7 @@
 {
   "$id": "optInLocations_applyComingSoonTemplate",
   "$schema": "https://schema.yext.com/config/km/connector/v7",
-  "displayName": "Apply Coming Soon Template",
+  "displayName": "Coming Soon - Apply Template",
   "source": {
     "sourceConfig": {
       "apiPullConfig": {

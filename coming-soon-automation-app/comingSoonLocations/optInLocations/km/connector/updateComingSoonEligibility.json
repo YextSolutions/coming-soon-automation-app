@@ -1,7 +1,7 @@
 {
   "$id": "optInLocations_updateComingSoonEligibility",
   "$schema": "https://schema.yext.com/config/km/connector/v7",
-  "displayName": "Update Coming Soon Eligibility",
+  "displayName": "Coming Soon - Update Eligibility",
   "source": {
     "sourceConfig": {
       "apiPullConfig": {

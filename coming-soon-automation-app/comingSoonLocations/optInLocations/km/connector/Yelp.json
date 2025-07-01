@@ -1,7 +1,7 @@
 {
   "$id": "optInLocations_Yelp",
   "$schema": "https://schema.yext.com/config/km/connector/v7",
-  "displayName": "Opt In Locations _ Yelp",
+  "displayName": "Coming Soon - Opt In Locations _ Yelp",
   "source": {
     "sourceConfig": {
       "apiPullConfig": {

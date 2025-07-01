@@ -1,7 +1,7 @@
 {
   "$id": "optInLocations_Google",
   "$schema": "https://schema.yext.com/config/km/connector/v7",
-  "displayName": "Opt In Locations _ Google",
+  "displayName": "Coming Soon - Opt In Locations _ Google",
   "source": {
     "sourceConfig": {
       "apiPullConfig": {

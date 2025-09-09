@@ -240,7 +240,7 @@
             {
               "inputColumn": "Check for License Assignment",
               "comparator": "CONTAINS",
-              "comparisonValue": "true"
+              "comparisonValue": "true-true-true-true"
             }
           ]
         }
